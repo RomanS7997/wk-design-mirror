@@ -1,0 +1,1 @@
+!function(){const e=document.querySelector(".video"),t=document.querySelector(".video--play"),c=document.querySelector(".video--pause"),n=document.getElementById("mvideo");t.addEventListener("click",(function(){e.classList.add("active"),n.play()})),c.addEventListener("click",(function(){e.classList.remove("active"),n.pause()}))}();

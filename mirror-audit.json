@@ -1,0 +1,511 @@
+{
+  "source": "http://wk-design.ru/",
+  "capture_date": "2026-10-02",
+  "pages": [
+    "about.html",
+    "contacts.html",
+    "index.html",
+    "policy.html"
+  ],
+  "adaptations": [
+    {
+      "path": "about.html",
+      "change": "Root home links made relative for GitHub project Pages",
+      "count": 3
+    },
+    {
+      "path": "contacts.html",
+      "change": "Root home links made relative for GitHub project Pages",
+      "count": 3
+    },
+    {
+      "path": "index.html",
+      "change": "Root home links made relative for GitHub project Pages",
+      "count": 2
+    },
+    {
+      "path": "policy.html",
+      "change": "Root home links made relative for GitHub project Pages",
+      "count": 3
+    },
+    {
+      "path": "css/main.css",
+      "change": "Original Manrope font files are served locally instead of Google Fonts",
+      "count": 1
+    }
+  ],
+  "source_files": {
+    "index.html": {
+      "url": "http://wk-design.ru/index.html",
+      "status": 200,
+      "type": "text/html",
+      "path": "index.html",
+      "bytes": 13354,
+      "sha256": "fb9b4dc05b32fba910783044408608081c4c8e6e016c6e3f1340181eb5af91c0",
+      "references": [
+        "http://wk-design.ru/",
+        "http://wk-design.ru/about.html",
+        "http://wk-design.ru/contacts.html",
+        "http://wk-design.ru/css/bootsrtap.css",
+        "http://wk-design.ru/css/main.css",
+        "http://wk-design.ru/img/catalog/category_00.png",
+        "http://wk-design.ru/img/catalog/category_01.png",
+        "http://wk-design.ru/img/catalog/category_02.png",
+        "http://wk-design.ru/img/catalog/category_03.png",
+        "http://wk-design.ru/img/catalog/good_00.png",
+        "http://wk-design.ru/img/catalog/good_00_hover.png",
+        "http://wk-design.ru/img/catalog/good_01.png",
+        "http://wk-design.ru/img/catalog/good_01_hover.png",
+        "http://wk-design.ru/img/catalog/good_02.png",
+        "http://wk-design.ru/img/catalog/good_02_hover.png",
+        "http://wk-design.ru/img/catalog/good_03.png",
+        "http://wk-design.ru/img/catalog/good_03_hover.png",
+        "http://wk-design.ru/img/catalog/good_04.png",
+        "http://wk-design.ru/img/catalog/good_04_hover.png",
+        "http://wk-design.ru/img/catalog/good_05.png",
+        "http://wk-design.ru/img/catalog/good_05_hover.png",
+        "http://wk-design.ru/img/favicons/apple-touch-icon.png",
+        "http://wk-design.ru/img/favicons/favicon-16x16.png",
+        "http://wk-design.ru/img/favicons/favicon-32x32.png",
+        "http://wk-design.ru/img/history-00.png",
+        "http://wk-design.ru/img/logo-footer.svg",
+        "http://wk-design.ru/img/svgsprite/sprite.symbol.svg",
+        "http://wk-design.ru/index.html",
+        "http://wk-design.ru/js/index.bundle.js",
+        "http://wk-design.ru/js/main.bundle.js",
+        "http://wk-design.ru/policy.html"
+      ]
+    },
+    "about.html": {
+      "url": "http://wk-design.ru/about.html",
+      "status": 200,
+      "type": "text/html",
+      "path": "about.html",
+      "bytes": 10377,
+      "sha256": "fddad321240d2bd6909038a768818e43d4695d758a50f921f85031a706654e88",
+      "references": [
+        "http://wk-design.ru/",
+        "http://wk-design.ru/about.html",
+        "http://wk-design.ru/contacts.html",
+        "http://wk-design.ru/css/bootsrtap.css",
+        "http://wk-design.ru/css/main.css",
+        "http://wk-design.ru/img/favicons/apple-touch-icon.png",
+        "http://wk-design.ru/img/favicons/favicon-16x16.png",
+        "http://wk-design.ru/img/favicons/favicon-32x32.png",
+        "http://wk-design.ru/img/favorites/fav-00.png",
+        "http://wk-design.ru/img/favorites/fav-01.png",
+        "http://wk-design.ru/img/favorites/fav-02.png",
+        "http://wk-design.ru/img/favorites/fav-03.png",
+        "http://wk-design.ru/img/logo-footer.svg",
+        "http://wk-design.ru/img/svgsprite/sprite.symbol.svg",
+        "http://wk-design.ru/index.html",
+        "http://wk-design.ru/js/about.bundle.js",
+        "http://wk-design.ru/js/main.bundle.js",
+        "http://wk-design.ru/policy.html",
+        "http://wk-design.ru/video/video-00.mp4"
+      ]
+    },
+    "contacts.html": {
+      "url": "http://wk-design.ru/contacts.html",
+      "status": 200,
+      "type": "text/html",
+      "path": "contacts.html",
+      "bytes": 6685,
+      "sha256": "7403bd2c7401d59053586038dbdef6b68d2161a9082468f803f9f87eae3e69a1",
+      "references": [
+        "http://wk-design.ru/",
+        "http://wk-design.ru/about.html",
+        "http://wk-design.ru/contacts.html",
+        "http://wk-design.ru/css/bootsrtap.css",
+        "http://wk-design.ru/css/main.css",
+        "http://wk-design.ru/img/favicons/apple-touch-icon.png",
+        "http://wk-design.ru/img/favicons/favicon-16x16.png",
+        "http://wk-design.ru/img/favicons/favicon-32x32.png",
+        "http://wk-design.ru/img/logo-footer.svg",
+        "http://wk-design.ru/img/svgsprite/sprite.symbol.svg",
+        "http://wk-design.ru/index.html",
+        "http://wk-design.ru/js/main.bundle.js",
+        "http://wk-design.ru/policy.html"
+      ]
+    },
+    "css/bootsrtap.css": {
+      "url": "http://wk-design.ru/css/bootsrtap.css",
+      "status": 200,
+      "type": "text/css",
+      "path": "css/bootsrtap.css",
+      "bytes": 728399,
+      "sha256": "38519d33407a1519d8150df71ed13f9b71702f2f15ffc38845da1920a4190af9",
+      "references": []
+    },
+    "css/main.css": {
+      "url": "http://wk-design.ru/css/main.css",
+      "status": 200,
+      "type": "text/css",
+      "path": "css/main.css",
+      "bytes": 62567,
+      "sha256": "26afeba4821993669604ddc0d31786ab94ebd5046634bd8012bea697fa435203",
+      "references": [
+        "http://wk-design.ru/img/bg-contacts.png",
+        "http://wk-design.ru/img/bg-welcome.png",
+        "https://fonts.googleapis.com/css?family=Manrope:200,300,regular,500,600,700,800"
+      ]
+    },
+    "img/catalog/category_00.png": {
+      "url": "http://wk-design.ru/img/catalog/category_00.png",
+      "status": 200,
+      "type": "image/png",
+      "path": "img/catalog/category_00.png",
+      "bytes": 66781,
+      "sha256": "0d5e021124642acde5cd7fe902b3a692f25777d5c38d292297c91ae6685781c4",
+      "references": []
+    },
+    "img/catalog/category_01.png": {
+      "url": "http://wk-design.ru/img/catalog/category_01.png",
+      "status": 200,
+      "type": "image/png",
+      "path": "img/catalog/category_01.png",
+      "bytes": 167177,
+      "sha256": "c321b202972bce2a426ef336818e6603497e89f0c7c9f49702edf10de75d01fa",
+      "references": []
+    },
+    "img/catalog/category_02.png": {
+      "url": "http://wk-design.ru/img/catalog/category_02.png",
+      "status": 200,
+      "type": "image/png",
+      "path": "img/catalog/category_02.png",
+      "bytes": 281162,
+      "sha256": "a3f25d84da0a6d468d4ea3d3031d719eb5712dd400be8d75b4fc2989b0cba3a5",
+      "references": []
+    },
+    "img/catalog/category_03.png": {
+      "url": "http://wk-design.ru/img/catalog/category_03.png",
+      "status": 200,
+      "type": "image/png",
+      "path": "img/catalog/category_03.png",
+      "bytes": 123359,
+      "sha256": "3da6c639879dab891daebccd20bf58815eaf62fee05204216dfc94f67dcd9de1",
+      "references": []
+    },
+    "img/catalog/good_00.png": {
+      "url": "http://wk-design.ru/img/catalog/good_00.png",
+      "status": 200,
+      "type": "image/png",
+      "path": "img/catalog/good_00.png",
+      "bytes": 33830,
+      "sha256": "c4a1cd7eaa32ed75c355918beab745fcc122e37fbe8947cf45ebee92bd71a94b",
+      "references": []
+    },
+    "img/catalog/good_00_hover.png": {
+      "url": "http://wk-design.ru/img/catalog/good_00_hover.png",
+      "status": 200,
+      "type": "image/png",
+      "path": "img/catalog/good_00_hover.png",
+      "bytes": 33032,
+      "sha256": "3b8057b77ced2220b3f6f37e5e6cb00535b7094b65933371f239203bd5da806a",
+      "references": []
+    },
+    "img/catalog/good_01.png": {
+      "url": "http://wk-design.ru/img/catalog/good_01.png",
+      "status": 200,
+      "type": "image/png",
+      "path": "img/catalog/good_01.png",
+      "bytes": 61778,
+      "sha256": "281c372598275e25e0a8ff666cd3dbfe1287ea70f2156b030b2a829bcdbadc93",
+      "references": []
+    },
+    "img/catalog/good_01_hover.png": {
+      "url": "http://wk-design.ru/img/catalog/good_01_hover.png",
+      "status": 200,
+      "type": "image/png",
+      "path": "img/catalog/good_01_hover.png",
+      "bytes": 45466,
+      "sha256": "0fbdd8a964a7491b987aaa21235627f3e2466393277a76256dd84384b0c2c0ae",
+      "references": []
+    },
+    "img/catalog/good_02.png": {
+      "url": "http://wk-design.ru/img/catalog/good_02.png",
+      "status": 200,
+      "type": "image/png",
+      "path": "img/catalog/good_02.png",
+      "bytes": 43358,
+      "sha256": "c7ecd957e2e054024199865b7217333a015f5ca1a851d898246a615341449405",
+      "references": []
+    },
+    "img/catalog/good_02_hover.png": {
+      "url": "http://wk-design.ru/img/catalog/good_02_hover.png",
+      "status": 200,
+      "type": "image/png",
+      "path": "img/catalog/good_02_hover.png",
+      "bytes": 77909,
+      "sha256": "aca76273dda7e8f28f7812b75753b430bf6b7959ce89a1a1b5b216cf8cfd243f",
+      "references": []
+    },
+    "img/catalog/good_03.png": {
+      "url": "http://wk-design.ru/img/catalog/good_03.png",
+      "status": 200,
+      "type": "image/png",
+      "path": "img/catalog/good_03.png",
+      "bytes": 54705,
+      "sha256": "20689a5b8ff290a327b7a0a5c8274dad9ce74f7c1afb4551d3a634a7bb6a41a6",
+      "references": []
+    },
+    "img/catalog/good_03_hover.png": {
+      "url": "http://wk-design.ru/img/catalog/good_03_hover.png",
+      "status": 200,
+      "type": "image/png",
+      "path": "img/catalog/good_03_hover.png",
+      "bytes": 41251,
+      "sha256": "71e1c4e4b03798fd9f7b0c978adad94f8ad3ff7461a58ae761d3e595664ecdc6",
+      "references": []
+    },
+    "img/catalog/good_04.png": {
+      "url": "http://wk-design.ru/img/catalog/good_04.png",
+      "status": 200,
+      "type": "image/png",
+      "path": "img/catalog/good_04.png",
+      "bytes": 98318,
+      "sha256": "2b5368e3c5ab63acc3adb34d7026ebc0265add5151937f3e8a80fc9f2e46cadc",
+      "references": []
+    },
+    "img/catalog/good_04_hover.png": {
+      "url": "http://wk-design.ru/img/catalog/good_04_hover.png",
+      "status": 200,
+      "type": "image/png",
+      "path": "img/catalog/good_04_hover.png",
+      "bytes": 26516,
+      "sha256": "bc62bcb6e7a8c4f91caa3e7194db44c15e3efbbde27eb94f071fed5df6578ebd",
+      "references": []
+    },
+    "img/catalog/good_05.png": {
+      "url": "http://wk-design.ru/img/catalog/good_05.png",
+      "status": 200,
+      "type": "image/png",
+      "path": "img/catalog/good_05.png",
+      "bytes": 46902,
+      "sha256": "5e1dd4f7a65640007b93134f9a963240a86f1cca5a036d7d3236631c1d6b0f69",
+      "references": []
+    },
+    "img/catalog/good_05_hover.png": {
+      "url": "http://wk-design.ru/img/catalog/good_05_hover.png",
+      "status": 200,
+      "type": "image/png",
+      "path": "img/catalog/good_05_hover.png",
+      "bytes": 55637,
+      "sha256": "b7f57f547b5d6aae8e99d5491fe4330bc2f0367c0c83693725b4ba745b87cb8b",
+      "references": []
+    },
+    "img/favicons/apple-touch-icon.png": {
+      "url": "http://wk-design.ru/img/favicons/apple-touch-icon.png",
+      "status": 200,
+      "type": "image/png",
+      "path": "img/favicons/apple-touch-icon.png",
+      "bytes": 20055,
+      "sha256": "adfea39af41bc0f13fbcc1d342a1941ead5432d12f2aa6d1709d13eabb6c12bf",
+      "references": []
+    },
+    "img/favicons/favicon-16x16.png": {
+      "url": "http://wk-design.ru/img/favicons/favicon-16x16.png",
+      "status": 200,
+      "type": "image/png",
+      "path": "img/favicons/favicon-16x16.png",
+      "bytes": 576,
+      "sha256": "e0d70955d7a05bdecc6fefefb85a260d92035dcf31b09c0c8131136dc373cc3a",
+      "references": []
+    },
+    "img/favicons/favicon-32x32.png": {
+      "url": "http://wk-design.ru/img/favicons/favicon-32x32.png",
+      "status": 200,
+      "type": "image/png",
+      "path": "img/favicons/favicon-32x32.png",
+      "bytes": 1559,
+      "sha256": "9b97ff4fec8dd7d72a989e2a7e3ac63b122332be33951b7626d206ac02dce831",
+      "references": []
+    },
+    "img/history-00.png": {
+      "url": "http://wk-design.ru/img/history-00.png",
+      "status": 200,
+      "type": "image/png",
+      "path": "img/history-00.png",
+      "bytes": 177262,
+      "sha256": "9ed0d5c5f274a3db2173a21bd8a04c227443e2aca9ad77256bc9971ff5a1d10c",
+      "references": []
+    },
+    "img/logo-footer.svg": {
+      "url": "http://wk-design.ru/img/logo-footer.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "path": "img/logo-footer.svg",
+      "bytes": 11410,
+      "sha256": "8b3e8ce2eb668f01109598c71673fed80d2ad19e079e4990885f1af47e40263e",
+      "references": []
+    },
+    "img/svgsprite/sprite.symbol.svg": {
+      "url": "http://wk-design.ru/img/svgsprite/sprite.symbol.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "path": "img/svgsprite/sprite.symbol.svg",
+      "bytes": 11028,
+      "sha256": "1fb2f36f7087ddc95be8e45a65194f078d8903bc1c07ce3ffe59dc12537ae9d2",
+      "references": []
+    },
+    "js/index.bundle.js": {
+      "url": "http://wk-design.ru/js/index.bundle.js",
+      "status": 200,
+      "type": "text/javascript",
+      "path": "js/index.bundle.js",
+      "bytes": 85944,
+      "sha256": "8f5e572c990f43b18b650853b4ae54d9cd2968de5c88b3de7aaa3664770df7ea",
+      "references": [
+        "http://wk-design.ru/js/i(954"
+      ]
+    },
+    "js/main.bundle.js": {
+      "url": "http://wk-design.ru/js/main.bundle.js",
+      "status": 200,
+      "type": "text/javascript",
+      "path": "js/main.bundle.js",
+      "bytes": 552,
+      "sha256": "217606a4133c783b33deea3d87c5ed35e88382de812d4f45f830e2ec799392b1",
+      "references": []
+    },
+    "policy.html": {
+      "url": "http://wk-design.ru/policy.html",
+      "status": 200,
+      "type": "text/html",
+      "path": "policy.html",
+      "bytes": 37992,
+      "sha256": "9c9f054089733cf1eb7ca15d2368b494f440f9c382dfcffea1285f4b528e1b3d",
+      "references": [
+        "http://wk-design.ru/",
+        "http://wk-design.ru/about.html",
+        "http://wk-design.ru/contacts.html",
+        "http://wk-design.ru/css/bootsrtap.css",
+        "http://wk-design.ru/css/main.css",
+        "http://wk-design.ru/img/favicons/apple-touch-icon.png",
+        "http://wk-design.ru/img/favicons/favicon-16x16.png",
+        "http://wk-design.ru/img/favicons/favicon-32x32.png",
+        "http://wk-design.ru/img/logo-footer.svg",
+        "http://wk-design.ru/img/svgsprite/sprite.symbol.svg",
+        "http://wk-design.ru/index.html",
+        "http://wk-design.ru/js/main.bundle.js",
+        "http://wk-design.ru/policy.html"
+      ]
+    },
+    "img/bg-contacts.png": {
+      "url": "http://wk-design.ru/img/bg-contacts.png",
+      "status": 200,
+      "type": "image/png",
+      "path": "img/bg-contacts.png",
+      "bytes": 174572,
+      "sha256": "f2849c0f7ee2e9d64bb027cf7b3b9bf238074580bcba6c06152521489dace5fc",
+      "references": []
+    },
+    "img/bg-welcome.png": {
+      "url": "http://wk-design.ru/img/bg-welcome.png",
+      "status": 200,
+      "type": "image/png",
+      "path": "img/bg-welcome.png",
+      "bytes": 379452,
+      "sha256": "2b2ecd0e7ba2992627488fabac1f3a25205ec018b9f18b9533ac84d370c9f011",
+      "references": []
+    },
+    "img/favorites/fav-00.png": {
+      "url": "http://wk-design.ru/img/favorites/fav-00.png",
+      "status": 200,
+      "type": "image/png",
+      "path": "img/favorites/fav-00.png",
+      "bytes": 369095,
+      "sha256": "bfc63c4d905c7b7aa68d0b4fc45eff997d55d5b170dfc1b28670d94748d6a960",
+      "references": []
+    },
+    "img/favorites/fav-01.png": {
+      "url": "http://wk-design.ru/img/favorites/fav-01.png",
+      "status": 200,
+      "type": "image/png",
+      "path": "img/favorites/fav-01.png",
+      "bytes": 197586,
+      "sha256": "00fee473c71d5cb2acac05fd9bda28fc5d17e30218e2bf0ddebd7c8f7f2b9bfd",
+      "references": []
+    },
+    "img/favorites/fav-02.png": {
+      "url": "http://wk-design.ru/img/favorites/fav-02.png",
+      "status": 200,
+      "type": "image/png",
+      "path": "img/favorites/fav-02.png",
+      "bytes": 171050,
+      "sha256": "b44949d72badcfdd419aa40a9487f690979f0eef666878a460a532233e5f2710",
+      "references": []
+    },
+    "img/favorites/fav-03.png": {
+      "url": "http://wk-design.ru/img/favorites/fav-03.png",
+      "status": 200,
+      "type": "image/png",
+      "path": "img/favorites/fav-03.png",
+      "bytes": 241691,
+      "sha256": "3042521cbe1502bc8d314e5e554da4b279b4f7007e63e9b2df3b2fca0a803726",
+      "references": []
+    },
+    "js/about.bundle.js": {
+      "url": "http://wk-design.ru/js/about.bundle.js",
+      "status": 200,
+      "type": "text/javascript",
+      "path": "js/about.bundle.js",
+      "bytes": 333,
+      "sha256": "b7cf347ddf7e457b6d491c60b633fd696c506d785d94bae807757c71450deb46",
+      "references": []
+    },
+    "video/video-00.mp4": {
+      "url": "http://wk-design.ru/video/video-00.mp4",
+      "status": 200,
+      "type": "video/mp4",
+      "path": "video/video-00.mp4",
+      "bytes": 95300058,
+      "sha256": "7fa5627c94097bd5683b1c0f9f87c9fa5389e348745b91db0ffbaec986921f78",
+      "references": []
+    }
+  },
+  "fonts": [
+    {
+      "source": "https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggOxSuXd.woff2",
+      "path": "fonts/xn7gYHE41ni1AdIRggOxSuXd.woff2",
+      "sha256": "c268b459a9329e59fecf39a17618efd44c71735532048d60b12aab76a8c14914",
+      "bytes": 14500
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggSxSuXd.woff2",
+      "path": "fonts/xn7gYHE41ni1AdIRggSxSuXd.woff2",
+      "sha256": "2fb2e8cbfd52ae46179a8b6024eb162f1f9c6de3d22d6e3a30d8f395de7220be",
+      "bytes": 9444
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggexSg.woff2",
+      "path": "fonts/xn7gYHE41ni1AdIRggexSg.woff2",
+      "sha256": "a30ddcd349703aff7464c34bef3fffdff405ee50c113440d7c8693c02d210972",
+      "bytes": 24836
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggixSuXd.woff2",
+      "path": "fonts/xn7gYHE41ni1AdIRggixSuXd.woff2",
+      "sha256": "6bbb044ab420e07edb0a3042d2eb314b85e83a0182e945a15ab3b9092668dfd5",
+      "bytes": 8520
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggmxSuXd.woff2",
+      "path": "fonts/xn7gYHE41ni1AdIRggmxSuXd.woff2",
+      "sha256": "3911b66d9f2e005a4b989223405d0e5032619c668597ba467cc76a23c8fffcfb",
+      "bytes": 15120
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggqxSuXd.woff2",
+      "path": "fonts/xn7gYHE41ni1AdIRggqxSuXd.woff2",
+      "sha256": "de37de877dc17e4577341fa68bb5cb526b53d54cb29721e674208546a3c7849d",
+      "bytes": 2552
+    }
+  ],
+  "source_discovery_notes": [
+    "robots.txt and sitemap.xml return 404 on the original site.",
+    "All pages reachable through the original HTML/CSS/JS/SVG were crawled recursively.",
+    "js/i(954 was a minified-code regex false positive; it is not a browser resource or a real page."
+  ],
+  "font_details": "Exact browser-served Google Fonts CSS; Manrope v20 WOFF2, weights 200-800, all six unicode subsets. Initial crawler TTF font files were replaced after screenshot comparison found Cyrillic differences."
+}
