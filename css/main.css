@@ -1303,13 +1303,13 @@ section[id] {
 }
 @media (max-width: 575px) {
   .header--logo {
-    width: 170px;
+    width: 140px;
     height: 54px;
   }
 }
 @media (max-width: 359px) {
   .header--logo {
-    width: 150px;
+    width: 110px;
     height: 48px;
   }
 }
