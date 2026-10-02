@@ -1,0 +1,186 @@
+{
+  "pages": [
+    "about.html",
+    "contacts.html",
+    "index.html",
+    "policy.html"
+  ],
+  "logo_original_sha256": "a241818dce03cccd3c69048ac33b0cdf768065c4b73dcd6b4dcf7e42721a5a40",
+  "source_logo_modified": false,
+  "resource_checks": [
+    {
+      "url": "http://127.0.0.1:4173/about.html",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/contacts.html",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/css/bootsrtap.css",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/css/fonts.css",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/css/main.css?v=elastic-1",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/fonts/xn7gYHE41ni1AdIRggOxSuXd.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/fonts/xn7gYHE41ni1AdIRggSxSuXd.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/fonts/xn7gYHE41ni1AdIRggexSg.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/fonts/xn7gYHE41ni1AdIRggixSuXd.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/fonts/xn7gYHE41ni1AdIRggmxSuXd.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/fonts/xn7gYHE41ni1AdIRggqxSuXd.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/img/bg-contacts.png",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/img/bg-welcome.png",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/img/catalog/category_00.png",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/img/catalog/category_01.png",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/img/catalog/category_02.png",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/img/catalog/category_03.png",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/img/catalog/good_00.png",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/img/catalog/good_00_hover.png",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/img/catalog/good_01.png",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/img/catalog/good_01_hover.png",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/img/catalog/good_02.png",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/img/catalog/good_02_hover.png",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/img/catalog/good_03.png",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/img/catalog/good_03_hover.png",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/img/catalog/good_04.png",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/img/catalog/good_04_hover.png",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/img/catalog/good_05.png",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/img/catalog/good_05_hover.png",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/img/elastic-store-logo.png",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/img/favorites/fav-00.png",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/img/favorites/fav-01.png",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/img/favorites/fav-02.png",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/img/favorites/fav-03.png",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/img/history-00.png",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/img/svgsprite/sprite.symbol.svg",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/index.html",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/js/about.bundle.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/js/index.bundle.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/js/main.bundle.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/policy.html",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4173/video/video-00.mp4",
+      "status": 200
+    }
+  ],
+  "browser_cases": 20,
+  "horizontal_overflow": false,
+  "console_errors": [],
+  "old_details_in_current_html": false,
+  "header_store": "https://www.wildberries.ru/brands/elastic-store",
+  "passed": true
+}
