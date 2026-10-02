@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-02",
+  "asset": "img/elastic-store-logo-web.png",
+  "sourcePreserved": "img/elastic-store-logo.png",
+  "change": "Clean white raster logo on black, CSS inversion removed, header and footer on all four pages updated",
+  "localChecks": {
+    "desktop": {"width": 1280, "logosLoaded": true, "horizontalOverflow": false, "headerFooterVisuallyChecked": true},
+    "mobileWidths": [320, 390, 430],
+    "mobileLogosLoaded": true,
+    "mobileHorizontalOverflow": false
+  }
+}
